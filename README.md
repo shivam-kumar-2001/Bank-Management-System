@@ -1,7 +1,17 @@
-## Getting Started
+Bank Management System  - Java Swing Project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
+Description
+The Banking System is a Java Swing application that simulates basic banking operations. It provides a user-friendly interface for managing accounts, transactions, and other essential banking functions.
+-----------------------------------------------------------------------------------------------------------------------
+Features
+      Account creation and management
+      Deposit and withdrawal transactions
+      Balance inquiry
+      Transaction history
+      User-friendly GUI with Java Swing
+-----------------------------------------------------------------------------------------------------------------------
+Screenshots
+-----------------------------------------------------------------------------------------------------------------------
 ![1](https://github.com/shivam-kumar-2001/Bank-Management-system/assets/61088685/d54aa9e5-38dd-4c78-9a18-02003e05a26a)
 ![2](https://github.com/shivam-kumar-2001/Bank-Management-system/assets/61088685/d773ed68-cdcb-4ee4-b417-2fc7bbcfe403)
 ![3](https://github.com/shivam-kumar-2001/Bank-Management-system/assets/61088685/993a57e4-6b4f-4534-a108-62720f361eee)
